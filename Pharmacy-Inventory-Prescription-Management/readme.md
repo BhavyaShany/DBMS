@@ -1,1 +1,0 @@
-__Pharmacy-Inventory-Prescription-Management__
