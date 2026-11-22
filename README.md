@@ -15,5 +15,5 @@ A collection of Database Management Systems (DBMS) laboratory exercises and a ca
 
 ## Author
 
-** Bhavya Shany **
-** 2501730024 **
+**Bhavya Shany**
+**2501730024**
